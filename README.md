@@ -1,1 +1,1 @@
-# Graph_QControl
+# Graph QControl
